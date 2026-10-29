@@ -29,6 +29,15 @@ cd the-numbers
 dotnet run -c Release --project src/TheNumbers
 ```
 
+## 📊 Example Output
+
+```bash
+🎉 4 8 15 16 23 42
+
+Tries: 6,055,755,113 - Time: 00:15.500
+Speed: 390,677,664 tries/sec
+```
+
 ## 🧮 The Odds
 
 This draws 6 different numbers from 1-42 and requires the **exact sequence**, in order.
@@ -41,4 +50,4 @@ This draws 6 different numbers from 1-42 and requires the **exact sequence**, in
 
 Because the numbers are bad luck, and I wanted to see how bad.
 
-First seen in \*\*Lost S1E18, "Numbers"
+First seen in [_Lost_ S1E18, "Numbers"](https://www.imdb.com/title/tt0636286/)
