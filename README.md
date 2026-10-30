@@ -10,7 +10,7 @@
 
 How many tries does it take to hit Hurley's cursed lottery numbers by pure luck?
 
-A small .NET console app that keeps drawing random numbers until it matches the sequence, then reporst how many attempts it took. Hobby project, just for fun.
+A small .NET console app that keeps drawing random numbers until it matches the sequence, then reports how many attempts it took. Hobby project, just for fun.
 
 ## 🎰 How it works
 
